@@ -218,3 +218,4 @@ en:
       notice_create: "%{name} was created"
       notice_update: "%{name} was updates"
       notice_destroy: "%{name} was deleted"
+      
