@@ -213,4 +213,8 @@ en:
       long: "%B %d, %Y %H:%M"
       short: "%d %b %H:%M"
     pm: pm
-
+  controllers:
+    translate:
+      notice_create: "%{name} was created"
+      notice_update: "%{name} was updates"
+      notice_destroy: "%{name} was deleted"
