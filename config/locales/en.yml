@@ -213,6 +213,16 @@ en:
       long: "%B %d, %Y %H:%M"
       short: "%d %b %H:%M"
     pm: pm
+  views:
+    translate:
+      show: show
+      edit: edit
+      destroy: delete
+      new: new
+      back: back
+      delete_confirm: Are you sure you want to delete？
+      title_new: "%{name} create new"
+      title_edit: "%{name} edit"
   controllers:
     translate:
       notice_create: "%{name} was created"
